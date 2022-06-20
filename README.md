@@ -125,10 +125,10 @@ Batch : 2024
 
 ***Paricipant 3:-***
 
-Name: 
+Name: Akshat Jain
 
-Email: 
+Email: akshat.jn2002@gmail.com
 
-College: 
+College: Netaji Subhas University of Technology
 
-Batch :
+Batch : 2024
