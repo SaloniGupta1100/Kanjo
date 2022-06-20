@@ -20,7 +20,7 @@ While today's world has become fast paced and hectic where it is easier than eve
 
 This application aims to offer a quick and easy way to analyse 1000s of tweets on a certian topic/ place or person and determine the most popular sentiment and emotion shown towards it.
 
-**Watch Demo** :  [Demo]()
+**Watch Demo** :  [Demo](https://youtu.be/KQGjfpfWfI0)
 
 ## Table Of Contents
 
